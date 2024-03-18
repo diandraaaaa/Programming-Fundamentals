@@ -1,7 +1,7 @@
 # Programming Fundamentals Lab Homework
 
 **Introduction:**
-This README outlines the lab homework completed during the first semester of the Programming Fundamentals course, focusing on Python basics, basic OOP, and layered architecture.
+This Repository outlines the lab homework completed during the first semester of the Programming Fundamentals course, focusing on Python basics, basic OOP, and layered architecture.
 
 **Overview:**
 The lab assignments served as practical exercises to reinforce theoretical concepts learned in lectures, covering Python basics, functions, modules, OOP principles, and layered architecture.
